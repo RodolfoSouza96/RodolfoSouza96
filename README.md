@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Rodolfo Souza 👋
 
-  - 🔭 Hoje trabalho como operador de sistemas na empresa Eco Sistemas
+- 🔭 Hoje trabalho como operador de sistemas na empresa Eco Sistemas
 - 🌱 Estou estudando novamente Java com foco em API REST
 - ✉️ Contate-me no email: rodolfo.ls1996@outlook.com / ro_rd15@yahoo.com.br
 - 😄 Pronouns: ele/dele
